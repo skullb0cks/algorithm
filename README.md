@@ -1,7 +1,7 @@
 # algorithm
 썩어가는 두뇌 살리기
 
-1. remove Duplicate
+1.remove Duplicate
 
 Question: How would you remove duplicate members from an array?
 
@@ -10,7 +10,7 @@ removeDuplicate([1,3,3,3,1,5,6,7,8,1]);
   
 
 
-2. merge two sorted array
+2.merge two sorted array
 
 Question: How would you merge two sorted array?
 
