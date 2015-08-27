@@ -15,7 +15,7 @@ describe('algorithm', function() {
     });
 
     it('mergeSortedArray', function() {
-        var result = mergeSortedArray([2,5,6,9], [1,2,3,29]);
+        var result = mergeSortedArray([2,6,5,9], [1,29,3,2]);
         expect(result).toEqual(jasmine.arrayContaining([1, 2, 2, 3, 5, 6, 9, 29]));
     });
 });
