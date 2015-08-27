@@ -7,9 +7,6 @@ Question: How would you remove duplicate members from an array?
 
 removeDuplicate([1,3,3,3,1,5,6,7,8,1]);
   = [1, 3, 5, 6, 7, 8]
-  
-
---------------------------------------------------------------------------------------------
 
 
 2.merge two sorted array
@@ -20,7 +17,40 @@ Answer: I will keep a pointer for each array and (read the code. and be careful 
 
 mergeSortedArray([2,5,6,9], [1,2,3,29]);
  = [1, 2, 2, 3, 5, 6, 9, 29]
- 
+
+ --------------------------------------------------------------------------------------------
+
+ 3.swap number without temp
+
+ Question: How would you swap two numbers without using a temporary variable?
+
+ Answer: Waste time about thinking it. though u know the answer, act like you are thinking and take your time to answer this one.
+
+ swapNumb(2, 3);
+    = before swap:  a:  2 b:  3
+    = after swap:  a:  3 b:  2
+
+
+4.string reverse
+
+Question: How would you reverse a string in JavaScript?
+
+Answer: I can loop through the string and concatenate letters to a new string
+
+> reverse('you are a nice dude');
+  = "edud ecin a era uoy"
+
+
+5.reverse words
+
+Question: How would you reverse words in a sentence?
+
+Answer: You have to check for white space and walk through the string. Ask is there could be multiple whitespace.
+
+> reverseWords('fix this later')
+  " later  this fix"
+
+
  ***
 문제 출제는 자유
 각자 커밋후 코드 비교 및 반성의 시간
