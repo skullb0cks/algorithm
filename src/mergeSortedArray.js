@@ -23,9 +23,8 @@ function sortedArray(array) {
     var res = [],
         k = array.length;
     while(k > 0) {
-        var idx = getMinIndex(array),
-            min = array[idx];
-        res.push(min);
+        var idx = getMinIndex(array);
+        res.push(array[idx]);
         array[idx] = null;
         --k;
     }
