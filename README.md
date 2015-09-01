@@ -18,7 +18,6 @@ Answer: I will keep a pointer for each array and (read the code. and be careful 
 mergeSortedArray([2,5,6,9], [1,2,3,29]);
  = [1, 2, 2, 3, 5, 6, 9, 29]
 
- --------------------------------------------------------------------------------------------
 
  3.swap number without temp
 
@@ -49,6 +48,41 @@ Answer: You have to check for white space and walk through the string. Ask is th
 
 > reverseWords('fix this later')
   " later  this fix"
+
+ --------------------------------------------------------------------------------------------
+
+6.string reverse
+
+Question: How would you reverse a string in JavaScript?
+
+Answer: I can loop through the string and concatenate letters to a new string
+
+> reverse('you are a nice dude');
+
+    = "edud ecin a era uoy"
+
+
+7. 반복되지 않는 첫번째 문자 찾기
+
+Question: How could you find the first non repeating char in a string?
+
+>firstNonRepeatChar('the quick brown fox jumps then quickly blow air');
+
+ = "f"
+
+
+
+8. reverse in place
+
+Question: If you have a string like "I am the good boy". How can you generate "I ma eht doog yob"? Please note that the words are in place but reverse.
+
+Answer: To do this, i have to do both string reverse and word reverse.
+
+> reverseInPlace('I am the good boy');
+
+ = "I ma eht doog yob"
+
+
 
 
  ***
