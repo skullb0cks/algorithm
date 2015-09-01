@@ -62,7 +62,7 @@ Answer: I can loop through the string and concatenate letters to a new string
     = "edud ecin a era uoy"
 
 
-7. 반복되지 않는 첫번째 문자 찾기
+7.반복되지 않는 첫번째 문자 찾기
 
 Question: How could you find the first non repeating char in a string?
 
@@ -72,7 +72,7 @@ Question: How could you find the first non repeating char in a string?
 
 
 
-8. reverse in place
+8.reverse in place
 
 Question: If you have a string like "I am the good boy". How can you generate "I ma eht doog yob"? Please note that the words are in place but reverse.
 
