@@ -62,7 +62,7 @@ Answer: I can loop through the string and concatenate letters to a new string
     = "edud ecin a era uoy"
 
 
-7.반복되지 않는 첫번째 문자 찾기
+7.First non repeating char
 
 Question: How could you find the first non repeating char in a string?
 
