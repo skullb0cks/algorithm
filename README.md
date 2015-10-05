@@ -1,7 +1,7 @@
 # algorithm
 썩어가는 두뇌 살리기
 
-1.remove Duplicate
+#### 1. remove Duplicate
 
 Question: How would you remove duplicate members from an array?
 
@@ -9,7 +9,7 @@ removeDuplicate([1,3,3,3,1,5,6,7,8,1]);
   = [1, 3, 5, 6, 7, 8]
 
 
-2.merge two sorted array
+#### 2. merge two sorted array
 
 Question: How would you merge two sorted array?
 
@@ -19,7 +19,7 @@ mergeSortedArray([2,5,6,9], [1,2,3,29]);
  = [1, 2, 2, 3, 5, 6, 9, 29]
 
 
- 3.swap number without temp
+#### 3. swap number without temp
 
  Question: How would you swap two numbers without using a temporary variable?
 
@@ -30,7 +30,7 @@ mergeSortedArray([2,5,6,9], [1,2,3,29]);
     = after swap:  a:  3 b:  2
 
 
-4.string reverse
+#### 4.string reverse
 
 Question: How would you reverse a string in JavaScript?
 
@@ -40,7 +40,7 @@ Answer: I can loop through the string and concatenate letters to a new string
   = "edud ecin a era uoy"
 
 
-5.reverse words
+#### 5.reverse words
 
 Question: How would you reverse words in a sentence?
 
@@ -51,7 +51,7 @@ Answer: You have to check for white space and walk through the string. Ask is th
 
  --------------------------------------------------------------------------------------------
 
-6.string reverse
+#### 6.string reverse
 
 Question: How would you reverse a string in JavaScript?
 
@@ -62,7 +62,7 @@ Answer: I can loop through the string and concatenate letters to a new string
     = "edud ecin a era uoy"
 
 
-7.First non repeating char
+#### 7.First non repeating char
 
 Question: How could you find the first non repeating char in a string?
 
@@ -72,7 +72,7 @@ Question: How could you find the first non repeating char in a string?
 
 
 
-8.reverse in place
+#### 8.reverse in place
 
 Question: If you have a string like "I am the good boy". How can you generate "I ma eht doog yob"? Please note that the words are in place but reverse.
 
@@ -85,7 +85,7 @@ Answer: To do this, i have to do both string reverse and word reverse.
 
 
 
-9. extract duplicated string
+#### 9. extract duplicated string
 
 Q : Extract duplicated string.
 
