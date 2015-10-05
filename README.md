@@ -85,7 +85,7 @@ Answer: To do this, i have to do both string reverse and word reverse.
 
 
 
-#### 9. extract duplicated string
+#### 9. extract duplicated string(longest)
 
 Q : Extract duplicated string.
 
