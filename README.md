@@ -83,6 +83,16 @@ Answer: To do this, i have to do both string reverse and word reverse.
  = "I ma eht doog yob"
 
 
+9. extract duplicated string
+
+Q : Extract duplicated string.
+
+var a = "Hi, I am Jein. How are you?";
+var b = "I am Jein. Here is algorithm page"
+
+> getDuplicatedStr(a, b);
+
+=> 'I am Jein. H'
 
 
  ***
